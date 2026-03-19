@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="tk24">
+    <display-name>Телеканал 24</display-name>
+  </channel>
+
+  <programme start="20260319193000 +0500" stop="20260319200000 +0500" channel="tk24">
+    <title>Эфир телеканала 24</title>
+    <desc>Информационно-развлекательный блок: новости, премьера 2 серии 15 сезона "Жизни младенца" и многое другое.</desc>
+    <category>Развлекательное</category>
+  </programme>
+</tv>
+
