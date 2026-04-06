@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://github.com/vadimpapin188/crispy-octo-goggles/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="tk24" group-title="Общие",Телеканал 24
-http://github.com/vadimpapin188/crispy-octo-goggles/releases/download/Hg/Jjk.mp4
 
+https://github.com/vadimpapin188/crispy-octo-goggles/releases/download/L4g/Ggogogogogogo.mp4
 #EXTINF:-1 tvg-id="tk24" group-title="Общие",Телеканал 24 (Дубль)
 http://github.com/vadimpapin188/crispy-octo-goggles/releases/download/Hg/Jjk.mp4
 
