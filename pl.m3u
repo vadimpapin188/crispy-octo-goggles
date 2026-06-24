@@ -21,3 +21,29 @@ http://cdntv.online/low/5kvis8epwt/2.m3u8
 
 https://github.com/vadimpapin188/crispy-octo-goggles/raw/refs/heads/main/sm1.mp4
 
+#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/4.m3u8
+#EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/5.m3u8
+#EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия К
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/6.m3u8
+#EXTINF:0 tvg-id="7" tvg-logo="http://epg.cdntv.online/img/7.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", Россия 24
+#EXTGRP:Новостные
+http://cdntv.online/low/5kvis8epwt/7.m3u8
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Карусель
+#EXTGRP:Детские
+http://cdntv.online/low/5kvis8epwt/8.m3u8
+#EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ОТР
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/9.m3u8
+#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/10.m3u8
+#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/11.m3u8
+
+
