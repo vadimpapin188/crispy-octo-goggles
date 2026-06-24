@@ -10,3 +10,10 @@ http://github.com/vadimpapin188/crispy-octo-goggles/releases/download/Hg/Jjk.mp4
 http://github.com/vadimpapin188/crispy-octo-goggles/releases/download/G/Gugug.mp4
 #EXTINF:-1 tvg-id="veronika-tv" group-title="Семейные",Вероника ТВ
 https://github.com/vadimpapin188/crispy-octo-goggles/releases/download/L4g/VideoVeronika2026.mp4
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/1.m3u8
+#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
+#EXTGRP:Федеральные
+http://cdntv.online/low/5kvis8epwt/2.m3u8
