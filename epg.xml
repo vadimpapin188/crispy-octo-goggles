@@ -9,5 +9,13 @@
     <desc>Информационно-развлекательный блок: новости, премьера 2 серии 15 сезона "Жизни младенца" и многое другое.</desc>
     <category>Развлекательное</category>
   </programme>
+  <channel id="testchannel1">
+    <display-name>Test 1</display-name>
+  </channel>
+  <programme start="20260619193000 +0500" stop="20300319200000 +0500" channel="testchannel1">
+    <title>Test</title>
+    <desc>Test.</desc>
+    <category>Test</category>
+  </programme>
 </tv>
 
